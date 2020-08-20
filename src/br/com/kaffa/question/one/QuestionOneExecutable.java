@@ -3,6 +3,8 @@ package br.com.kaffa.question.one;
 import java.io.IOException;
 import java.util.Scanner;
 
+import br.com.kaffa.question.one.test.CNPJValidator;
+
 public class QuestionOneExecutable {
 
 	/**
